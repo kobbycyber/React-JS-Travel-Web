@@ -1,0 +1,10 @@
+{
+    "editor.fontSize" : 18,
+    "window.zoomLevel" : 0,
+    "terminal.integrated.fontSize" :15,
+    "workbench.colorTheme" : "One Dark Pro",
+    "workbench.iconTheme": "vscode-icons",
+    "font-switcher.enableLivePreview": true,
+    "font-switcher.fontFamily": "Consolas, DejaVu Sans Mono, monospace,Roboto",
+    
+}
